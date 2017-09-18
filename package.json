@@ -2,5 +2,10 @@
   "name": "woodapi",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "GPL3"
+  "license": "GPL3",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "cors": "^2.8.4",
+    "express": "^4.15.4"
+  }
 }
